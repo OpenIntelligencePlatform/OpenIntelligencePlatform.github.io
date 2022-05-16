@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
+title: Open Intelligence Platform - Data Integration
 categories: [Miscellaneous, Jekyll]
 ---
 
