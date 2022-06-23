@@ -1,1 +1,7 @@
-<h1>News</h1>
+---
+layout: page
+title: News
+permalink: /news/
+---
+
+# News
