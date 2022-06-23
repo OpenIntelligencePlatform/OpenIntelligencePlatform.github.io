@@ -1,0 +1,34 @@
+---
+layout: page
+permalink: /contact/
+title: Kontaktanfrage
+---
+
+<h1>Kontaktanfrage</h1>
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSdx9KJVH05ySA3Y5Xbv4tPzafTy4NGvbGtAthjLpNYrDNkRzw/formResponse?" target="hidde_iframe" onsubmit="submitted=true;">
+  Anrede:<br>
+  <select name="address" name="entry.250039872" id="entry.250039872">
+    <option>Herr</option>
+    <option>Frau</option>
+  </select>
+  <br>
+  Vorname:<br>
+  <input type="text" name="entry.927665147" id="entry.927665147"><br>
+  Nachname:<br>
+  <input type="text" name="entry.1328003203" id="entry.1328003203">
+  E-Mail:<br>
+  <input type="text" name="entry.1688905845" id="entry.1688905845">
+  Nachricht:<br>
+  <input type="text" name="entry.416903834" id="entry.416903834">
+  <input type="submit" value="Senden">
+</form>
+
+
+<script src="assets/js/jquery.min.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
+  $('#gform').prepend('Your submission has been processed...');
+  });
+</script>
