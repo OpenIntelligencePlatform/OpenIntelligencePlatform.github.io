@@ -1,1 +1,7 @@
-<h1>Beteiligte Projektpartner</h1>
+---
+layout: page
+title: Beteiligte Projektpartner
+permalink: /partners/
+---
+
+#Beteiligte Projektpartner
