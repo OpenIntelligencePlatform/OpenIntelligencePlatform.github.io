@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aufgabenstellungen für studentische Arbeiten
-permalink: /partners/
+permalink: /student-theses/
 ---
 
 Text hier
