@@ -4,4 +4,4 @@ title: Beteiligte Projektpartner
 permalink: /partners/
 ---
 
-#Beteiligte Projektpartner
+# Beteiligte Projektpartner
