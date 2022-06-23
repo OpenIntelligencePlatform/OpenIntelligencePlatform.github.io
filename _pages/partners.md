@@ -4,4 +4,5 @@ title: Beteiligte Projektpartner
 permalink: /partners/
 ---
 
-# Beteiligte Projektpartner
+Folgende Professuren sind am Projekt beteiligt:
+
